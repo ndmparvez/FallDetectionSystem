@@ -1,4 +1,4 @@
-#Description:
+# Description:
   Falling down is too risky to many old men. If they fall, we must help them as soon as possible before
 any accidents happen. The problem is we can't always keep watch on their activities. The considerable
 risk of falls and the substantial increase in the elderly population make the automatic fall detection
