@@ -10,6 +10,17 @@ detection to solve the problem above. This device should send an alert to your m
 detected.
 
 # Components
-## Hardware
+## Hardware:
     - NodeMCU
     - MPU3050
+    
+## Software Tools:
+    - Arduino IDE
+    - NodeJS, ReactJS
+
+## Other Components:
+    - Connecting Wires
+    - Breadboard
+    - LED
+    - Switch
+    - Lithium-ION Battery
