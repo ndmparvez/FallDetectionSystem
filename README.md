@@ -8,3 +8,8 @@ activities. An optimal detection threshold can be obtained which meets the speci
 while maximizing the detection probability. So, in this project we will create a prototype of fall
 detection to solve the problem above. This device should send an alert to your mobile phone if fall is
 detected.
+
+# Components
+## Hardware
+    - NodeMCU
+    - MPU3050
