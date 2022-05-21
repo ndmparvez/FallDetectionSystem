@@ -24,3 +24,12 @@ detected.
     - LED
     - Switch
     - Lithium-ION Battery
+
+# Schematic:
+![19BEC0636_VL2021220502822_PE003](https://user-images.githubusercontent.com/71454390/169659830-3cf6cb28-351b-4eba-a9d8-29b48eea5d6d.jpg)
+
+# Hardware Implementation:
+![19BEC0636_VL2021220502822_PE0032](https://user-images.githubusercontent.com/71454390/169659892-5b8300f7-564f-4373-bb0c-177f5d5cbddb.jpg)
+
+# Output: 
+![19BEC0636_VL2021220502822_PE0033](https://user-images.githubusercontent.com/71454390/169659949-b9ac93a4-bd49-4fea-9951-68c84d9de66d.jpg)
